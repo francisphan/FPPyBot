@@ -1,0 +1,13 @@
+server: foobar.com
+port: 6667
+nick: FPPyBot
+channel: "#some-room"
+people:
+  person1:
+    crs:
+      cr1:
+      - reviewer1
+      - reviewer2
+      cr2:
+      - reviewer1
+      - reviewer3
